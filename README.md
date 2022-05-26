@@ -1,4 +1,7 @@
 # Summer ML
+Here is a central repo for some fun small ML projects. Please feel free to add onto this list or invite more people. The more the merrier :)
+Everyone can certainly do their own things, but rough goal was have a project or a model that we work on for a bit of time (groups, solo, not at all, who cares) and then maybe present / conviene at the end for a cool coffee chat. Like book club, but for coding ML stuff.
+
 ## Goals
 The goal is to mess around with some fun ML projects and different kinds of models.
 I have not seen a wide variety, so want to get some good exposure to new methods.
